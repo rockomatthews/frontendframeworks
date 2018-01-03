@@ -1,0 +1,19 @@
+{
+  "name": "frontendframeworks",
+  "version": "1.0.0",
+  "description": "react weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockomatthews/frontendframeworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockomatthews/frontendframeworks/issues"
+  },
+  "homepage": "https://github.com/rockomatthews/frontendframeworks#readme"
+}
